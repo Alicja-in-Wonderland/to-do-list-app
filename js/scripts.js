@@ -17,3 +17,9 @@ li.on('dblclick', function () {
 //Adding the delete button 'X'
 let crossOutButton = $('<button>X</button>');
 li.append(crossOutButton);
+crossOutButton.on('click', deleteListItem);
+
+//Adding class DELETE from the css
+function deleteListItem() {
+    li.addClass('delete');
+}
