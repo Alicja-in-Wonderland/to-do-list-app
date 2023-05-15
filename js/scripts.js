@@ -13,3 +13,7 @@ if (inputValue === '') {
 li.on('dblclick', function () {
     li.toggleClass('strike');
 });
+
+//Adding the delete button 'X'
+let crossOutButton = $('<button>X</button>');
+li.append(crossOutButton);
