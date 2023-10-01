@@ -5,19 +5,21 @@ To-Do List App is a simple web application that allows users to manage their dai
 ## Screenshot
 ![Screenshot 2023-10-01 at 19 11 55](https://github.com/Alicja-in-Wonderland/to-do-list-app/assets/129612148/719cb740-e8fc-44df-a993-cb71890daa66)
 
+## URL to live website
+https://alicja-in-wonderland.github.io/to-do-list-app/
+
+## Tech stack
+
+- JavaScript
+- HTML
+- CSS
 
 ## Features
 
 - Create new to-do items
 - Update existing to-do items
-- Mark to-do items as completed
+- Mark to-do items as completed with double-click
 - Delete unwanted to-do items
-
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
 
 ## Installation
 
